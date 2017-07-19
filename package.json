@@ -1,0 +1,15 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "The final project of FrontendMasters' Intro to Web Dev course. 'Tweeter' application. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Sang Hyun Kim",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
